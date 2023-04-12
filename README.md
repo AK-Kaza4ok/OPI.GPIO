@@ -6,14 +6,12 @@ A modified version of OrangePi.GPIO to bring suport for the Orange Pi Zero2, Ora
 ```
 sudo apt-get update
 sudo apt-get install python-dev git
-git clone https://github.com/eutim/OPI.GPIO
+git clone https://github.com/AK-Kaza4ok/OPI.GPIO
 cd OPI.GPIO
 sudo python3 setup.py install
 ```
 ###### Usage
-* GPIO.setboard(GPIO.H616) # Orange Pi Zero2 board
-* GPIO.setboard(GPIO.PI3) # Orange Pi3 board
-* GPIO.setboard(GPIO.LITE2) # Orange Pi Lite2 board
+* GPIO.setboard(GPIO.H616) # Mango MQ-Quad
 
 ###### To-Do
 
