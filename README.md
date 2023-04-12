@@ -1,5 +1,5 @@
 # OPI.GPIO
-A modified version of OrangePi.GPIO to bring suport for the Mango PI MQ-Quad
+A modified version of OrangePi.GPIO to bring suport for the Mango Pi MQ-Quad
 
 ###### Installation 
 
